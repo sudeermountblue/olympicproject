@@ -1,6 +1,6 @@
 package com.sudeer;
 
-public class NocRegions {
+public class Region {
     private String NOC;
     private String region;
     private String notes;

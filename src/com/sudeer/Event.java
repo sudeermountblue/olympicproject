@@ -1,6 +1,6 @@
 package com.sudeer;
 
-public class AthleteEvents {
+public class Event {
     private String ID;
     private String Name;
     private String Sex;
